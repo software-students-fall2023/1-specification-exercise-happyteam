@@ -2,7 +2,7 @@
 
 ## Team members
 
-Luke Bernstein: https://github.com/lnbernstein
+Luke Bernstein: https://github.com/lnbernstein <br>
 James Luo: https://github.com/jamesluo802 
 
 ## Stakeholders
