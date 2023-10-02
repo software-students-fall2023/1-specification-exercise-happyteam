@@ -52,4 +52,4 @@ PennyPal is a revolutionary expense tracking mobile app that allows any user to 
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/SzMoeNQqHyCdHMyYULDiCU/Expense-Wireframe?type=design&node-id=31-666&t=net0YfFdRUyyoRPD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=31%3A666&show-proto-sidebar=1&mode=design
+[figma prototype](https://www.figma.com/proto/SzMoeNQqHyCdHMyYULDiCU/Expense-Wireframe?type=design&node-id=31-666&t=net0YfFdRUyyoRPD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=31%3A666&show-proto-sidebar=1&mode=design)
