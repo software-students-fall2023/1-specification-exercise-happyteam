@@ -47,7 +47,7 @@ PennyPal is a revolutionary expense tracking mobile app that allows any user to 
 
 ## Activity Diagrams
 
-[Busy Professional Activity Diagram](busy_pro_uml.png)
+[Busy Professional Activity Diagram](busy_pro_uml.png) <br>
 [Frequent Traveler Activity Diagram](traveler.png)
 
 ## Clickable Prototype
